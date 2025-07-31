@@ -5,20 +5,24 @@ This repository includes notes, example programs, and assignments from Cyber Sec
 📚 This repository contains programs, notes, and tasks from Aptech Cyber Security Class #3.
 
 ## 🔹 Topics Covered:
-- Installing Dev C++ IDE
-- Writing and running first C program
-- Understanding key C syntax symbols
-- Intro to variables in C
+- Installing Dev C++ IDE  
+- Writing and running first C program  
+- Understanding key C syntax symbols  
+- Intro to variables in C  
 
 ## 💻 Programs Included:
-- Hello World
-- Symbol example using \n, \t
-- Custom print statement task
+- Hello World  
+- Symbol example using \n, \t  
+- Custom print statement task  
 
-## 🧑‍🏫 Instructor: Hafizullah Khokhar  
-## 🎓 Platform: Aptech Pakistan
-📬 Contact / Connect
-GitHub: [Rida-Rafiq]
-LinkedIn: [Rida Rafiq]
-Email: [rafiqridaa@gmail.com]
+##Instructor: Hafizullah Khokhar  
+
+## Platform: Aptech Pakistan  
+
+---
+
+📬 **Contact / Connect:**  
+- GitHub: [Rida-Rafiq](https://github.com/Rida-Rafiq)  
+- LinkedIn: [Rida Rafiq](https://www.linkedin.com/in/rida-rafiq)  
+- Email: rafiqridaa@gmail.com
 
