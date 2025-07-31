@@ -17,7 +17,8 @@ This repository includes notes, example programs, and assignments from Cyber Sec
 
 ## 🧑‍🏫 Instructor: Hafizullah Khokhar  
 ## 🎓 Platform: Aptech Pakistan
-
----
-“Learning today to secure tomorrow.”
+📬 Contact / Connect
+GitHub: [Rida-Rafiq]
+LinkedIn: [Rida Rafiq]
+Email: [rafiqridaa@gmail.com]
 
